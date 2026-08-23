@@ -1,3 +1,4 @@
 # Personal-Budget-Planner
 
-sdadas
+On progress
+-taking time
